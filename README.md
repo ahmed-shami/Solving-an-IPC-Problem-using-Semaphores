@@ -1,4 +1,4 @@
-<h1>OS Project 2 — Inter-Process Communication with Semaphores and Shared Memory</h1>
+<h1>Inter-Process Communication with Semaphores and Shared Memory</h1>
 
 <h2>Overview</h2>
 <p>This project shows inter-process communication in Linux using shared memory and semaphores.</p>
